@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/saulpereira/Monsters/static/css/main.c0908365.chunk.css",
+    "main.js": "/saulpereira/Monsters/static/js/main.4b5c4ce0.chunk.js",
+    "main.js.map": "/saulpereira/Monsters/static/js/main.4b5c4ce0.chunk.js.map",
+    "runtime-main.js": "/saulpereira/Monsters/static/js/runtime-main.2c0fcf33.js",
+    "runtime-main.js.map": "/saulpereira/Monsters/static/js/runtime-main.2c0fcf33.js.map",
+    "static/js/2.7db90bec.chunk.js": "/saulpereira/Monsters/static/js/2.7db90bec.chunk.js",
+    "static/js/2.7db90bec.chunk.js.map": "/saulpereira/Monsters/static/js/2.7db90bec.chunk.js.map",
+    "index.html": "/saulpereira/Monsters/index.html",
+    "precache-manifest.701df6f8829ca84fd116dbb33c706954.js": "/saulpereira/Monsters/precache-manifest.701df6f8829ca84fd116dbb33c706954.js",
+    "service-worker.js": "/saulpereira/Monsters/service-worker.js",
+    "static/css/main.c0908365.chunk.css.map": "/saulpereira/Monsters/static/css/main.c0908365.chunk.css.map",
+    "static/js/2.7db90bec.chunk.js.LICENSE": "/saulpereira/Monsters/static/js/2.7db90bec.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2c0fcf33.js",
+    "static/js/2.7db90bec.chunk.js",
+    "static/css/main.c0908365.chunk.css",
+    "static/js/main.4b5c4ce0.chunk.js"
+  ]
+}
